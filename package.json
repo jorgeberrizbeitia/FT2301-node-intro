@@ -10,6 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "cool-ascii-faces": "^1.3.4",
+    "cows": "^2.1.1",
     "superheroes": "^3.0.0"
   }
 }

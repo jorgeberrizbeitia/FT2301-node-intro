@@ -21,3 +21,13 @@ const superheroes = require('superheroes');
 
 let randomSuperhero = superheroes.random();
 console.log(`Mi nombre de superheroe es: ${randomSuperhero}`)
+
+
+let cool = require('cool-ascii-faces')
+
+console.log(cool())
+
+
+const cows = require('cows');
+const cowsArr = cows()
+console.log(cowsArr[55])
